@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Eris Grey, the writer of the ERINYS series of science fiction novels
+- 👋 Hi, I’m @ratemisia
 - 👀 I’m interested in creative writing, science fiction, speculative biology and ecosystems, programming in JS and C++, PC hardware repair and design, and the intersection of creativity with technology
 - 🌱 I’m currently building the Project Cydonia Obsidian repo
 <!---
